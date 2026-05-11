@@ -1,0 +1,10 @@
+INFO: System boot sequence started
+ERROR: Disk full - 100% capacity reached
+INFO: User 'admin' logged in from 192.168.1.1
+WARNING: High memory usage detected
+ERROR: Connection timeout on port 8080
+INFO: Background update check completed
+ERROR: Database authentication failed
+DEBUG: Service heartbeat received
+INFO: User 'guest' session started
+ERROR: Write permission denied on /var/log/
